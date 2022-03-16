@@ -16,6 +16,8 @@ public class demo2 {
 		System.out.println(BROWSER);
 		String URL = System.getProperty("url");
 		System.out.println(URL);
+		String USERNAME = System.getProperty("Username");
+		System.out.println(USERNAME);
 		
 	}
 
